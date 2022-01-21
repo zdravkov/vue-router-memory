@@ -1,5 +1,6 @@
 A possible memory leak with Vue - vue router and lots ov rendered components
 Steps:
+
 npm i
 
 npm run serve
